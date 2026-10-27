@@ -1,0 +1,13 @@
+PERMIS VOYAGEURS — VERSION CONSOLIDÉE DE TEST (27 octobre 2026)
+
+Contenu : intro animée, profils, choix de langue FR/EN/ES/DE/AR, 12 fiches orales abrégées, 2 socles, 6 thèmes, avant le départ, grille interactive examen pratique, historique local. 84 fichiers MP3 pour FR/EN/ES/DE. Arabe : voix du navigateur, pas de MP3.
+
+LIMITES IMPORTANTES :
+- Textes pédagogiques abrégés, pas retranscriptions intégrales des photos.
+- questions.json contient [] : aucun des 200 QCM Rousseau ; les quiz ne peuvent pas fonctionner sans banque.
+- Traduction partielle de certains libellés de la grille et du site.
+- Barème de simulation indicatif, non certifié réglementairement.
+- Lecture en arrière-plan iPhone non vérifiée.
+- Pas de test navigateur iPhone ni déploiement Render réalisé.
+
+INSTALLATION (lorsque vous déciderez de tester) : décompresser le ZIP, envoyer son CONTENU (pas le ZIP) à la racine du dépôt GitHub main en préservant audios/ et les JSON. Render redéploie si autoDeploy actif. Conserver une copie de la version actuelle avant remplacement.

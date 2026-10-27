@@ -1,0 +1,8 @@
+VERSION V2 - APERCU MULTILINGUE (NON PUBLIE)
+
+5 langues, choix initial, sélecteur en haut à droite, sauvegarde du choix, sens RTL pour arabe.
+Nouveau : aperçu vocal du TITRE de l'audio dans la langue choisie (voix de synthèse du navigateur).
+ATTENTION : les fiches complètes ne sont PAS traduites et les enregistrements audio multilingues ne sont PAS inclus.
+La banque questions.json est vide ([]). Ne pas annoncer 200 questions opérationnelles.
+Le simulateur d'examen officiel selon la grille fournie n'est pas encore intégré.
+Ouvrir index.html pour tester. Ne pas remplacer le site en ligne sans vérification.

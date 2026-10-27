@@ -1,0 +1,1 @@
+V4 : 9 nouvelles révisions (Avant le départ, Socles 1-2, Thèmes 1-6), textes FR/EN/ES/DE/AR et 36 MP3 supplémentaires (FR/EN/ES/DE). Arabe : synthèse vocale navigateur. Résumés, PAS transcription complète. Version de test, non déployée. Ouvrir depuis un serveur HTTP local ou Render (fetch JSON). Les questions Rousseau restent à intégrer.
