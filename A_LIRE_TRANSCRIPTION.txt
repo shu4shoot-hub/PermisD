@@ -1,0 +1,1 @@
+200 questions transcrites automatiquement depuis les photos fournies. Les 200 corrigés du précédent ZIP sont intégrés. Les transcriptions ne sont pas garanties sans faute ; chaque photo originale reste consultable dans le quiz. Correction automatique pour réponses simples et ajustement manuel pour réponses ouvertes. Historique local au navigateur.
