@@ -7,3 +7,5 @@ Fonctionnels : intro, menu déroulant, profils locaux, modes de quiz, correction
 IMPORTANT : les 200 questions officielles et leurs images ainsi que les fichiers audio complets n'ont pas pu être récupérés depuis l'ancien site ni les photographies précédentes. Le fichier questions.json est volontairement vide ; aucune question officielle n'a été inventée. Pour activer les examens, importer le JSON contenant les questions exactes et corrigés.
 
 Les profils sont sauvegardés par navigateur/appareil (localStorage), pas synchronisés entre téléphones. Pour une vraie connexion multi-appareils, prévoir un backend sécurisé.
+
+MISE À JOUR AUDIO : catégories Fiches (12), Socle 1, Socle 2, Thèmes, Autres. Lecteur réel avec vitesse, enchaînement, import local MP3/M4A/WAV et stockage IndexedDB. Les audios d'origine restent manquants ; aucun faux audio n'est présenté comme complet. Pour que tous les visiteurs entendent les mêmes audios, il faudra placer les fichiers sources dans le dépôt et les référencer.
